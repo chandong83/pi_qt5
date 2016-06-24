@@ -1,5 +1,5 @@
 # pi_qt5
-raspberry pi + qt5 toolchain file
+raspberry pi + qt5 toolchain files
 
 
 raspberry pi + qt5.6.2 toolchain cross compile, gcc example source
