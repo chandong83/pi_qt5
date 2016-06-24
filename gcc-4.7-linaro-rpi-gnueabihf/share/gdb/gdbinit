@@ -1,0 +1,6 @@
+python
+import sys
+sys.path.insert(0, '/opt/dev/src/crosstool-ng/crosstool-ng-linaro-1.13.1-2012.07-20120720/builds/arm-linux-gnueabihf-linux/install/share/gcc-4.7.2/python')
+from libstdcxx.v6.printers import register_libstdcxx_printers
+register_libstdcxx_printers (None)
+end
