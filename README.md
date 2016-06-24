@@ -9,7 +9,6 @@ http://www.ics.com/blog/building-qt-5-raspberry-pi
  
  
  
- 
 
 image folder : these files are image files for "pi + qt5.6.2"
 if you want to use it, try following command :
